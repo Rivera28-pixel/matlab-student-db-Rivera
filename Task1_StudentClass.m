@@ -1,3 +1,10 @@
+%Author name:Blanca Rivera
+%Email: rivera222@rowan.edu
+%Course: Intro to Matlab/Solidworks
+%Assignment: Midterm 
+%Task 1 : Student Class
+%11/12/24
+
 classdef Student
     properties %lists the properties that should make up the list info required from each student 
         student_id
