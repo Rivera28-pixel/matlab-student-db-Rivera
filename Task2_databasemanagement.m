@@ -1,3 +1,10 @@
+%Author name:Blanca Rivera
+%Email: rivera222@rowan.edu
+%Course: Intro to Matlab/Solidworks
+%Assignment: Midterm 
+%Task 2: Student DataBase Management 
+%11/12/24
+
 classdef StudentDB
     properties 
        Students = {};
